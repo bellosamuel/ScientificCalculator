@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Scientific Calculator Pro</string>
+    <string name="error_invalid">Invalid Input</string>
+    <string name="matrix_input_hint">Enter values separated by space/comma (e.g., 1,2,3,4 for 2x2)</string>
+</resources>
